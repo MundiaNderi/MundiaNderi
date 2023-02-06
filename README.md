@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on small projects after ALX.
 - 🤔 I’m looking for help with QA Automation and writing Selenium scripts.
 - 💬 Ask me about hiking, traveling and writing!
-- 📫 How to reach me: Twitter: @nderisarah
+- 📫 How to reach me -  Twitter : @nderisarah
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I watch lots of Korean dramas!
--->
