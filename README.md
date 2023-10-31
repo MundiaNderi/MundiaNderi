@@ -1,7 +1,7 @@
 ### Hi there 👋. I'm Serah
 
 - 🔭 I’m currently working on my ALX Full Stack Engineering certification.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning JavaScript.
 - 👯 I’m looking to collaborate on small projects after ALX.
 - 🤔 I’m looking for help with QA Automation and writing Selenium scripts.
 - 💬 Ask me about hiking, traveling and writing!
