@@ -1,9 +1,9 @@
 ### Hi there 👋. I'm Serah
 
-- 🔭 I’m currently working on my ALX Full Stack Engineering certification.
+- 🔭 I’m a Junior Frontent Engineer
 - 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate on small projects after ALX.
-- 🤔 I’m looking for help with QA Automation and writing Selenium scripts.
+- 👯 I’m looking to contribute to Open Source.
+- 🤔 I’m looking for help with React and TypeScript.
 - 💬 Ask me about hiking, traveling and writing!
 - 📫 How to reach me -  Twitter : @nderisarah
 - 😄 Pronouns: She/her
