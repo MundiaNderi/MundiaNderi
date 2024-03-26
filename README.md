@@ -8,4 +8,4 @@
 - 📫 How to reach me -  Twitter : @nderisarah
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I watch lots of Korean dramas!
-- 👩🏽‍💻 [My Frontend Portfolio](https://jocular-churros-6d388d.netlify.app)
+- 👩🏽‍💻 [My Portfolio](https://jocular-churros-6d388d.netlify.app)
